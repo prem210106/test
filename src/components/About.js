@@ -4,7 +4,7 @@ const About = () => {
   return (
     <div>
       <h1> About page</h1>
-      <p>Welcome to [Your Company Name], a leading IT solutions provider committed to driving digital
+      <p>Welcome to techstota  a leading IT solutions provider committed to driving digital
         transformation and innovation. We specialize in delivering cutting-edge technology solutions that empower
         businesses to stay ahead in a rapidly evolving digital world.
       </p>
@@ -23,10 +23,11 @@ const About = () => {
     <p>
       Our Core Values
       Innovation: We continuously explore new technologies to deliver smarter solutions.
+      Excellence: We strive for perfection in every project we undertake.
     </p>
       
       </div>
-  )
+  );
 }
 
 export default About;
