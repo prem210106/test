@@ -13,20 +13,15 @@ const About = () => {
       implement reliable, scalable, and secure IT systems. Our team of skilled professionals brings together
       expertise in software development, cloud computing, cybersecurity, IT consulting, and data analytics to
       create solutions that truly make a difference.
-   </p>
+      </p>
 
-    <p>
+     <p>
       At techStota, we believe technology should simplify, not complicate. Our mission is to help
       businesses leverage the power of IT to enhance efficiency, improve customer experiences, and achieve
       sustainable growth.
-    </p>
-    <p>
-      Our Core Values
-      Innovation: We continuously explore new technologies to deliver smarter solutions.
-      Excellence: We strive for perfection in every project we undertake.
-    </p>
+      </p>
       
-      </div>
+     </div>
   );
 }
 
