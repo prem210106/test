@@ -22,6 +22,7 @@ const About = () => {
     </p>
     <p>
       Our Core Values
+      Innovation: We continuously explore new technologies to deliver smarter solutions.
     </p>
       
       </div>
