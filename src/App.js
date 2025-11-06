@@ -4,7 +4,7 @@ import Home from './components/Home'
 import Contact from './components/Contact'
 import Navbar from './components/Navbar'
 import About from './components/About'
-import './components/navbar.css'
+{/*import './components/navbar.css'*/}
 {/*import Footer from './components/Footer'*/}
 import { BrowserRouter,Route,Routes,} from 'react-router-dom';
  
