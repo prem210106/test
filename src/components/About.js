@@ -23,6 +23,6 @@ const About = () => {
       
      </div>
   );
-}
+}ss
 
 export default About;
